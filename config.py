@@ -1,5 +1,5 @@
 # Set or these values to match your credentials on DolbyIO Developer account (Media API)
-api_key = 'Ro6Yc8plwXTG7VDPAHRNTaOKqykixJT5'  # TODO: Change it to placeholder before uploading
+api_key = '<DOLBYIO_API_KEY>'
 
 headers = {
     "x-api-key": api_key,
